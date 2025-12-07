@@ -9,7 +9,7 @@ import torch.optim as optim
 from torch.utils.data import Dataset, DataLoader
 import torchvision.transforms as transforms
 from torchvision.datasets import ImageFolder
-//fuck uou nico
+//fuck uou Ming
 app = FastAPI()
 
 @app.post("/predict/")
